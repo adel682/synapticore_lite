@@ -1,0 +1,1 @@
+# SynaptiCore Lite Application
